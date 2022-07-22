@@ -1,5 +1,4 @@
-# rkl-division-distribution-theory
-Rumble Kong League Division Distribution Theory
+# Rumble Kong League Division Distribution Theory
 
 This project is a data science project done in Python. It was made in a Jupyter Notebook, so reading the .ipynb file in browser should be formatted well. There is a link to my commentary on Twitter about the details of the analysis at the top of the .ipynb file.
 
